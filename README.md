@@ -1,3 +1,3 @@
 # Mancala
 ## Name: Jean-Paul Saliba ##
-##Student Id: 100741759
+## Student Id: 100741759 ##
